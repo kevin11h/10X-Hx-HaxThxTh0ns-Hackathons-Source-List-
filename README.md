@@ -6,8 +6,7 @@
 2. MLH.io
 3. Eventbrite
 4. Twitch.io Accelerators One Piece Plug Play Santa Clara Devbootcamp 
-
-![](ABC blockchain - Dorahacks BINANCE - ICON)
+5.
 6. Ethglobal 
 7. Gitcoin
 8. Christopher Ngo
